@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
-  <metadata>BPaaS site identity 6079472b785dc28e</metadata>
-  <rect width="64" height="64" rx="15" fill="hsl(217 56% 24%)"/>
-  <path d="M33 0h31v64H19Z" fill="hsl(336 55% 56%)" opacity="0.82"/>
-  <g transform="rotate(30 32 32)" opacity="0.42"><path d="M14 20h36L32 50Z" fill="none" stroke="#ffffff" stroke-width="7" stroke-linejoin="round"/></g>
-  <text x="32" y="39" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">YR</text>
+  <title>염창 룸싸롱 TOP5</title>
+  <rect width="64" height="64" rx="16" fill="hsl(217 51% 20%)"/>
+  <g transform="rotate(180 32 32)"><circle cx="16" cy="16" r="5" fill="hsl(217 24% 96%)"/><circle cx="32" cy="16" r="5" fill="hsl(217 24% 96%)"/><circle cx="48" cy="16" r="5" fill="hsl(217 24% 96%)"/><circle cx="16" cy="32" r="5" fill="hsl(217 24% 96%)"/><circle cx="32" cy="32" r="6" fill="hsl(343 68% 60%)"/><circle cx="48" cy="32" r="5" fill="hsl(217 24% 96%)"/><circle cx="16" cy="48" r="5" fill="hsl(217 24% 96%)"/><circle cx="32" cy="48" r="5" fill="hsl(217 24% 96%)"/><circle cx="48" cy="48" r="5" fill="hsl(217 24% 96%)"/></g>
 </svg>
